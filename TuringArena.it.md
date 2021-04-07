@@ -10,3 +10,5 @@ Dei progetti proposti in queste schede è il più ambizioso sul piano tecnologic
 Vai al [repo GitHub di questo progetto open source](https://github.com/turingarena/turingarena).
 
 [Documentazione Read The Docs](https://readthedocs.org/projects/turingarena/)
+
+[TuringArena come pacchetto PyPi](https://pypi.org/project/turingarena/)
