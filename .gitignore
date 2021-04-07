@@ -9,7 +9,6 @@
 **/.DS_Store
 
 # LaTex
-*.pdf
 *.aux
 *.log
 
