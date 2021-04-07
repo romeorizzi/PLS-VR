@@ -16,12 +16,21 @@ Da oltre 20 anni sono coinvolto nella promozione e negli allenamenti (da varie r
 Per questo, rivolto qui al territorio di Verona, voglio assicurarmi di fare la mia parte perché abbiate i riferimenti primi necessari per poter tentare di queste avventure fosse anche per semplice divertimento.
 
 Ho pertanto qui raccolto delle schede di presentazione di alcune di queste iniziative. Mirano a fornire solo dei primi riferimenti dai quali possiate venire a scoprire di queste opportunità e partire direttamente.
+
+1. [Scheda Olimpiadi di Informatica](olimpiadi_informatica.md)
+
+2. [Scheda Olimpiadi di Matematica](olimpiadi_matematica.md)
+
+3. [Scheda Olimpiadi di Problem Solving](OPS.md)
+
 Queste schede accompagnano delle brevi video-clip.
 Ho inoltre reso disponibili dei video più lunghi presi da lezioni dove discuto ed esemplifico delle metodologie di problem-solving. Perché è poi la ciccia che meglio potrebbe attirarvi e farvi riconoscere al volo che questo mondo, di fatto, vi incuriosisce, vi interessa, vi appartiene.
 
-[Scheda Olimpiadi di Informatica](olimpiadi_informatica.md)
-[Scheda Olimpiadi di Matematica](olimpiadi_matematica.md)
-[Scheda Olimpiadi di Problem Solving](OPS.md)
+1. [Problema Piastrelle - Ricorsione](olimpiadi_informatica.md)
+
+2. [Problema Triangolo - Programmazione Dinamica](olimpiadi_informatica.md)
+
+3. [Problema Pirellone - Buone Caratterizzazioni](olimpiadi_matematica.md)
 
 
 ## Realizzazione di ambiziosi progetti open source in ambito ludico e/o didattico
@@ -36,8 +45,10 @@ Abbiamo anche sistemi organizzati diversamente che si occupano ad esempio della 
 In questi ultimi anni ho lavorato a formulare e sperimentare nuove proposte. In alcune schede e video vorrò pertanto parlarvi di alcuni progetti open source che mi stanno a cuore.
 Spero possano attirare la tua attenzione ed interesse. Saremo felicissimi se vorrai avvalerti di questi nuovi strumenti ed ancora più felici se vorrai prendere parte alla loro sperimentazione. Miriamo ad innescare un meccanismo virtuoso a partire dalle scuole dove studenti e docenti insieme realizzassero dei contenuti (problemi e percorsi didattici articolati per problemi) entro questi nuovi sistemi e paradigmi. I contenuti sarebbero così pienamente allineati alle esigenze ed obiettivi didattici per quella disciplina e l'insegnamento stesso tornerebbe ad essere percorso insieme ed occasione di crescita e scambio reciproci nel lavorare insieme verso obiettivi comuni. In questi progetti open source vi è anche ogni spazio per collaborare alla realizzazione delle piattaforme e ai componenti dei sistemi sottostanti. Mi stò rivolgendo sia a studenti che docenti, semplicemente a chi, senza credere troppo in questa distinzione, avesse voglia di mettersi in gioco per riscoprirsi in nuove competenze ed energie.  
 
-[Scheda progetto TALight](TALight.it.md)
-[Scheda progetto CodeColosseum](CodeColosseum.it.md)
-[Scheda progetto TuringArena](TuringArena.it.md)
+1. [Scheda progetto TALight](TALight.it.md)
+
+2. [Scheda progetto CodeColosseum](CodeColosseum.it.md)
+
+3. [Scheda progetto TuringArena](TuringArena.it.md)
 
   
