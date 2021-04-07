@@ -27,14 +27,31 @@ Sulle stesse competenze e verso uno stesso pubblico lavorano le Bebras:
 
 In realtà non riesco a tenermi aggiornato su questo versante ma questa sezione prova comunque a proporsi come una delle possibili sorgenti di informazioni di collegamento. Ringraziamo chi volesse segnalare utili integrazioni alle informazioni qui offerte, nell'interesse di tutti ed in particolare dei ragazzi interessati a prendere parte. Per altro trovate liste più estese ed aggiornate di referenti sul [sito di riferimento ufficiale nazionale](https://www.olimpiadiproblemsolving.it/web/index.php).
 
-Scuole superiori: alcuni istituti di Verona (Marconi, Galileo Galilei) e di Villafranca (Carlo Antis) organizzano incontri pomeridiani.
+Scuole superiori:
+alcuni istituti del territorio di Verona promuovono queste iniziative, organizzando anche incontri pomeridiani. 
+Di nostra conoscenza, tra questi:
+
+ITI Marconi, Verona (VR)
+LS Galileo Galilei, Verona (VR)
+ISS Carlo Anti Villafranca, Villafranca (VR)
+IIS Marie Curie, Garda (VR)
 ...
 
-Scuole medie: 
+Scuole medie:
+Di cui sappiamo, tra questi:
+
+Secondaria I Grado A. Manzoni, Verona (VR)
 ...
 
 Scuole elementari:
 alcuni istituti del territorio di Verona prendono parte a queste gare, allenando i loro bambini e portandoli poi agli eventi cui prendono parte con entusiasmo.
+Di nostra conoscenza, tra questi:
+
+IC Bovolone, Bovolone (VR)
+IC Dossobuono, Alpo (VR)
+IC Montalcini, Vigasio Buttapietra (VR)
+IC 2 Margherita Hack, San Giovanni Lupatoto (VR)
+IC Verona 15 Borgo Venezia, Verona (VR)
 ...
 
 

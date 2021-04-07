@@ -19,11 +19,13 @@ Al [sito delle olimpiadi a squadre (OIS)](https://sites.google.com/aldini.istruz
 
 ## Persone attive sul territorio VEN1
 
-Lorenzo De Carli ha spesso organizzato incontri pomeridiani al Marconi (vicino alla stazione di Verona Porta Nuova).
-Questi incontri sono aperti ai ragazzi di altre scuole e a tutto il territorio circostante. 
-In alcuni di questi incontri Lorenzo vi avvia all'uso di un linguaggio di programmazione che possa essere impiegato nelle gare (C/c++/Pascal), altri incontri (cui spesso ho partecipato io stesso) sono dedicati all'arte e alle tecniche del problem solving.
+Lorenzo De Carli ha spesso organizzato incontri pomeridiani all'ITI Marconi (vicino alla stazione di Verona Porta Nuova). 
+Questi incontri sono aperti ai ragazzi di altre scuole e a tutto il territorio circostante. In alcuni di questi incontri Lorenzo vi avvia all'uso di un linguaggio di programmazione che possa essere impiegato nelle gare (C/c++/Pascal), altri incontri (cui spesso ho partecipato io stesso) sono dedicati all'arte e alle tecniche del problem solving.
+Inoltre l'ITI Marconi funge da nodo AICA per le olimiadi di informatica e Lorenzo ha spesso aiutato nella logistica i ragazzi che pertecipano sia alle IOI che alle OIS. 
 
-Al Galileo Galilei ci sono degli ottimi gruppi di lavoro che si incontrano nei pomeriggi, lavorando su vari obiettivi, e tra questi anche le iOi, le OIS, e anche gare di matematica. Forse anche questi gruppi/iniziative sono aperti anche a ragazzi di altre scuole.
+Al Liceo Scientifico Galileo Galilei (Verona) ci sono degli ottimi gruppi di lavoro che si incontrano nei pomeriggi, lavorando su vari obiettivi, e tra questi anche le iOi, le OIS, le OPS e anche le gare di matematica. Forse anche questi gruppi/iniziative sono aperti anche a ragazzi di altre scuole. Sò comunque che lavorano molto bene.
+
+Più periferiche ma da segnalare per le loro attività anche l'IIS Marie Curie, Garda (VR) e l'ISS Carlo Anti Villafranca, Villafranca (VR).
 
 Non escludo che altri gruppi possano essere attualmente attivi presso altre scuole (vi prego di segnalarmeli così da contribuire tutti all'accessibilità di queste informazioni).
 
