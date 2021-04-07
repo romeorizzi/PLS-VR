@@ -5,7 +5,7 @@ Nella mia esperienza ho visto l'impatto positivo dirompente nella formazione, ne
 
 Per questo voglio assicurarmi di fare la mia parte perché abbiate i riferimenti primi necessari per poter tentare questa avventura fosse anche per semplice divertimento.
 
-Per accedere alle [International Olympiad in Informatics (IOI)](https://ioinformatics.org/) occorre dimostrare prima il proprio valore in casa, nelle [Olimpiadi Italiane di Informatica]. Entrambe le iniziative sono rivolte a ragazzi delle scuole superiori, con le gare di ambito nazionale a loro volta articolate in diverse fasi. Ai ragazzi che superano bene la fase nazionale vengono offerte importanti opportunità di allenamento che a loro volta hanno una loro tempistica. Vale quindi la pena e può fare la differenza cominciare presto.
+Per accedere alle [International Olympiad in Informatics (IOI)](https://ioinformatics.org/) occorre dimostrare prima il proprio valore in casa, nelle [Olimpiadi Italiane di Informatica](https://www.olimpiadi-informatica.it/index.php/allenamenti.html). Entrambe le iniziative sono rivolte a ragazzi delle scuole superiori, con le gare di ambito nazionale a loro volta articolate in diverse fasi. Ai ragazzi che superano bene la fase nazionale vengono offerte importanti opportunità di allenamento che a loro volta hanno una loro tempistica. Vale quindi la pena e può fare la differenza cominciare presto.
 Collegato a questo: per ragazzi delle medie o bambini delle elementari suggeriamo di guardare alle (Olimpiadi di Problem Solving (OPS))[https://www.olimpiadiproblemsolving.it/web/index.php]. [Nostra scheda di primo orientamento alle OPS.](OPS.ms)
 
 ## Siti di riferimento e i problemi
@@ -16,6 +16,13 @@ Al [sito per l'allenamento](https://training.olinfo.it/#/overview) trovi la riso
 
 Al [sito delle olimpiadi a squadre (OIS)](https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/homepage) trovi il fitto calendario, la vivace comunità, e le iniziative collegate a queste gare che tanto piacciono ai ragazzi. Partecipare con una squadra può infatti essere ancora più divertente ed istruttivo e darti soddisfazioni ed opportunità in senso più pieno.  
 
+## Alcuni problemi (assaggio)
+
+[Appetito Aracnide (territoriali IOI-2017)](problems/testo_AppetitoAracnide-territoriali2017.pdf)
+
+[Discesa Massima (territoriali IOI-2016)](problems/testo_DiscesaMassima_IOI-territoriali2016.pdf)
+
+[Virus Sequencing (Final Round OIS-2020)](problems/testo_VirusSequencing_OIS2020-FinalRound.pdf)
 
 ## Persone attive sul territorio VEN1
 
